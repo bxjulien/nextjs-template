@@ -1,0 +1,19 @@
+.demo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 0 2rem 2rem 2rem;
+  border: 2px dotted $secondary;
+
+  .title {
+    color: $secondary;
+    padding: 2rem 0;
+    align-self: flex-start;
+  }
+
+  .value {
+    margin: 0 0 4rem 0;
+  }
+
+}

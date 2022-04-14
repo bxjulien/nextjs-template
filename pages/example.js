@@ -1,4 +1,4 @@
-import ExamplePage from "../components/containers/example/Example";
+import ExamplePage from "../components/features/example/Example";
 
 export default function Example() {
   return <ExamplePage />

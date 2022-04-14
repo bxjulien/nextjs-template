@@ -1,5 +1,5 @@
 import styles from './Home.module.scss';
-import Demo from '../demo/Demo';
+import Demo from '../../features/demo/Demo';
 
 export default function Home() {
 
